@@ -3,7 +3,7 @@ package quoc;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-//just a test
+//i love you, ms N
 @SpringBootApplication
 public class QuocSpringbootApplication {
 
